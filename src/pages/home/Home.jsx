@@ -1,8 +1,10 @@
 import React from 'react'
+import Header from '../../components/header/Header'
 
 const home = () => {
   return (
-    <div>home sayfasındasın</div>
+    <div><Header/></div>
+    
   )
 }
 
